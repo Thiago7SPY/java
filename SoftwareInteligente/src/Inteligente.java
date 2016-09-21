@@ -42,7 +42,7 @@ public class Inteligente {
 			}
 			
 						
-			if (pergunta.contains("vida") && pergunta.contains("sentido")){
+			if (pergunta.contains("vida") && pergunta.contains("sentido ")){
 				System.out.println("	A ciência propõe duas explicações para essa dúvida metafísica.\n"
 						+ "A primeira, mais tradicional, é: o sentido (objetivo) da vida é se \n"
 						+ "reproduzir, ou seja, ter filhos. Ponto. Isso vale tanto para nós como \n"
